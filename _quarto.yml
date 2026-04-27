@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs  # This tells GitHub Pages where the "finished" site is
+
+website:
+  title: "Kazuki's Dev Log"
+  navbar:
+    left:
+      - index.qmd
+      - about.qmd
+    right:
+      - text: "Digital Garden"
+        href: "https://aoyama-hub.github.io" # Links back to your Quartz site
+      - icon: github
+        href: "https://github.com/aoyama-hub" # Links to your profile
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true      # Hides code by default (improves readability)
+    code-summary: "View Code"
+    code-copy: true       # Adds a 'copy' button to your code blocks
+
+# This ensures your Jupyter outputs stay "frozen" 
+# so the blog doesn't break if you update your mamba env later
+execute:
+  freeze: true

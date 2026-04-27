@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Kazuki's Dev Log"
+  site-url: "https://aoyama-hub.github.io/my-learning-blog"
   navbar:
     left:
       - index.qmd

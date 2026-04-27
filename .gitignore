@@ -1,2 +1,26 @@
+# Quarto internal files
 /.quarto/
+/_site/
+/docs/
+.quarto_ipynb
+
+# Jupyter & Python junk
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__/
+*.py[cod]
+
+# Machine Learning Large Files
+# (Add specific model extensions here if they are >50MB)
+*.pkl
+*.h5
+*.pth
+
+# Mac System files
+.DS_Store
+
+# Mamba/Conda environments
+env/
+venv/
+.mamba/
 **/*.quarto_ipynb

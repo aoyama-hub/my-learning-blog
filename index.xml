@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Kazuki&#39;s Dev Log</title>
+<link>https://aoyama-hub.github.io/my-learning-blog/</link>
+<atom:link href="https://aoyama-hub.github.io/my-learning-blog/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Thu, 30 Apr 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Training my first ML model</title>
+  <dc:creator>Kazuki Aoyama</dc:creator>
+  <link>https://aoyama-hub.github.io/my-learning-blog/posts/20260427_ML Journey Start/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I created a man/woman identifyer based on the top photos that came up in the search results on Bing: <a href="https://www.kaggle.com/code/aokazu/is-it-a-man-or-woman">Link to Kaggle</a></p>
+<section id="top-3-learning-outcomes" class="level1">
+<h1>Top 3 Learning Outcomes</h1>
+<section id="the-relationship-between-model-training-time-and-performance-is-not-linear." class="level2">
+<h2 class="anchored" data-anchor-id="the-relationship-between-model-training-time-and-performance-is-not-linear.">1. The relationship between model training time and performance is not linear.</h2>
+<ul>
+<li>Over fitting data (memorization of data)</li>
+<li>Accuracy for the training data goes up, but the testing data accuracy goes down. ## 2.</li>
+</ul>
+</section>
+<section id="further-questions" class="level2">
+<h2 class="anchored" data-anchor-id="further-questions"># Further Questions</h2>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>ML</category>
+  <category>Python</category>
+  <category>Fastai</category>
+  <guid>https://aoyama-hub.github.io/my-learning-blog/posts/20260427_ML Journey Start/</guid>
+  <pubDate>Thu, 30 Apr 2026 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

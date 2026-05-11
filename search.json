@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/20260427_ML Journey Start/index.html",
+    "href": "posts/20260427_ML Journey Start/index.html",
+    "title": "Training my first ML model",
+    "section": "",
+    "text": "I created a man/woman identifyer based on the top photos that came up in the search results on Bing: Link to Kaggle"
+  },
+  {
+    "objectID": "posts/20260427_ML Journey Start/index.html#the-relationship-between-model-training-time-and-performance-is-not-linear.",
+    "href": "posts/20260427_ML Journey Start/index.html#the-relationship-between-model-training-time-and-performance-is-not-linear.",
+    "title": "Training my first ML model",
+    "section": "1. The relationship between model training time and performance is not linear.",
+    "text": "1. The relationship between model training time and performance is not linear.\n\nOver fitting data (memorization of data)\nAccuracy for the training data goes up, but the testing data accuracy goes down. ## 2."
+  },
+  {
+    "objectID": "posts/20260427_ML Journey Start/index.html#further-questions",
+    "href": "posts/20260427_ML Journey Start/index.html#further-questions",
+    "title": "Training my first ML model",
+    "section": "# Further Questions",
+    "text": "# Further Questions"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kazuki’s Blog",
+    "section": "",
+    "text": "Welcome to my digital workbench.\nI operate on a simple principle: if you cannot explain it simply, you do not understand it. This space is where I put that principle into practice.\nI view constant growth as a necessity, and this blog serves as my accountability log—the final outlet in my learning process to solidify knowledge, develop my skills, and ensure I am always moving forward."
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Kazuki’s Blog",
+    "section": "Recent Posts",
+    "text": "Recent Posts\n\n\n\n\n\n\n\n\n\n\nTraining my first ML model\n\n\n\nML\n\nPython\n\nFastai\n\n\n\nLink to fast.ai’s free course: https://course.fast.ai\n\n\n\n\n\nApr 30, 2026\n\n\nKazuki Aoyama\n\n\n\n\n\nNo matching items"
+  }
+]

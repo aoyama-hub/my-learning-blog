@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs  # This tells GitHub Pages where the "finished" site is
+  output-dir: .  # This tells GitHub Pages where the "finished" site is
 
 website:
   title: "Kazuki's Dev Log"
